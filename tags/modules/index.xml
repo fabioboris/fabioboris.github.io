@@ -6,11 +6,11 @@
     <description>Recent content in modules on Blog do Prof. Fabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Feb 2021 21:13:15 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/modules/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Mar 2021 20:50:30 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/modules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notas de Aulas de JavaScript: 7. Módulos</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/7-modulos/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:15 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/7-modulos/</guid>
       <description>Módulos CommonJS Os padrão de módulos CommonJS foi (e ainda é) utilizado pela plataforma Node.js (usada no back-end), portanto ainda é bastante comum a sua utilização em projetos com JavaScript, uma vez que o padrão ES6 é relativamente novo, sendo lançado em 2015.

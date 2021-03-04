@@ -6,11 +6,11 @@
     <description>Recent content in funções on Blog do Prof. Fabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Feb 2021 21:13:11 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/fun%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 20:50:30 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/fun%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notas de Aulas de JavaScript: 3. Escopo, Variáveis e Funções</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/3-escopo-variaveis-e-funcoes/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:11 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/3-escopo-variaveis-e-funcoes/</guid>
       <description>Escopo, Variáveis e Funções valor1 = 1; // escopo global var valor2 = 12; // escopo de função let valor3 = 123; // escopo de bloco const valor4 = 1234; // escopo de bloco  // não é possível alterar o valor de uma constante Escopo global valor1 = 1; function func1() { valor1 = 2; { valor1 = 3; console.log(&amp;#34;func1 &amp;gt;&amp;gt; {} &amp;gt;&amp;gt; valor1:&amp;#34;, valor1); // 3  } console.</description>

@@ -6,21 +6,11 @@
     <description>Recent content in Posts on Blog do Prof. Fabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Feb 2021 21:13:16 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notas de Aulas de JavaScript: 8. Programação Assíncrona</title>
-      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/8-programacao-assincrona/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:16 -0300</pubDate>
-      
-      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/8-programacao-assincrona/</guid>
-      <description>Programação assíncrona No modelo de execução síncrono, as instruções de um programa são executadas em sequência, uma após a outra. Nesse modelo, quando uma instrução demorada é executada, o fluxo de execução fica bloqueado, aguardando seu término para que as próximas instruções possam ser executadas.
-No modelo de execução assíncrono, é possível executar mais de uma instrução ao mesmo tempo. Assim, uma instrução demorada poderia ser executada &amp;ldquo;em segundo plano&amp;rdquo;, enquanto o restante das instruções continuam normalmente com seu fluxo de execução.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 03 Mar 2021 20:50:30 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notas de Aulas de JavaScript: 7. Módulos</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/7-modulos/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:15 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/7-modulos/</guid>
       <description>Módulos CommonJS Os padrão de módulos CommonJS foi (e ainda é) utilizado pela plataforma Node.js (usada no back-end), portanto ainda é bastante comum a sua utilização em projetos com JavaScript, uma vez que o padrão ES6 é relativamente novo, sendo lançado em 2015.
@@ -30,7 +20,7 @@ No modelo de execução assíncrono, é possível executar mais de uma instruç�
     <item>
       <title>Notas de Aulas de JavaScript: 6. Arrays</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/6-arrays/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:14 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/6-arrays/</guid>
       <description>Trabalhando com arrays Obter o tamanho de um Array let cores = [&amp;#34;verde&amp;#34;, &amp;#34;amarelo&amp;#34;, &amp;#34;vermelho&amp;#34;]; let tamanho = cores.length; Acessar um item de um Array let primeira = cores[0]; let ultima = cores[cores.length - 1]; Iterar um Array // usando forEach // cores.forEach(function(item, indice, array) { // console.log(item); // }); cores.forEach(item =&amp;gt; { console.log(item); }); // usando for-of for (let item of cores) { console.log(item); } // usando for for (let i = 0, n = cores.</description>
@@ -39,7 +29,7 @@ No modelo de execução assíncrono, é possível executar mais de uma instruç�
     <item>
       <title>Notas de Aulas de JavaScript: 5. DOM</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/5-dom/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:13 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:10 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/5-dom/</guid>
       <description>Manipulação do HTML DOM O HTML DOM (Document Object Model) é um modelo de objetos de um documento HTML. O DOM de um documento consiste em uma hierarquia de nós, onde cada nó pode ter, opcionalmente, um nó pai (parent) e nós filhos (children).
@@ -49,7 +39,7 @@ Um elemento do DOM é um nó que representa uma tag HTML. No DOM, todo elemento 
     <item>
       <title>Notas de Aulas de JavaScript: 4. Estruturas de Controle</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/4-estruturas-de-controle/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/4-estruturas-de-controle/</guid>
       <description>Estruturas de controle if-else if (condição) instrução; if (condição) { instrução1; instrução2; } if (condição) { instrução1; } else { instrução2; } if (condição1) { instrução1; } else if (condição2) { instrução2; } else { instrução3; } // exemplo: comparar dois números inteiros fornecidos pelo usuário. const n1 = parseInt(prompt(&amp;#34;Por favor, digite um número inteiro.&amp;#34;)); const n2 = parseInt(prompt(&amp;#34;Por favor, digite mais um número inteiro.&amp;#34;)); let resp; if (n1 &amp;gt; n2) { resp = `${n1}é maior que ${n2}`; } else if (n1 &amp;gt; n2) { resp = `${n1}é menor que ${n2}`; } else { resp = `${n1}e ${n2}são iguais`; } alert(resp); switch switch (expressão) { case valor1: instrução1; [break;] case valor2: instrução2; [break;] default: instrução3; } // exemplo: um conceito para uma nota de 1 a 5 let num = parseInt(prompt(&amp;#34;Por favor, digite um número inteiro de 1 a 5&amp;#34;)); switch(num) { case 1: console.</description>
@@ -58,7 +48,7 @@ Um elemento do DOM é um nó que representa uma tag HTML. No DOM, todo elemento 
     <item>
       <title>Notas de Aulas de JavaScript: 3. Escopo, Variáveis e Funções</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/3-escopo-variaveis-e-funcoes/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:11 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/3-escopo-variaveis-e-funcoes/</guid>
       <description>Escopo, Variáveis e Funções valor1 = 1; // escopo global var valor2 = 12; // escopo de função let valor3 = 123; // escopo de bloco const valor4 = 1234; // escopo de bloco  // não é possível alterar o valor de uma constante Escopo global valor1 = 1; function func1() { valor1 = 2; { valor1 = 3; console.log(&amp;#34;func1 &amp;gt;&amp;gt; {} &amp;gt;&amp;gt; valor1:&amp;#34;, valor1); // 3  } console.</description>
@@ -67,7 +57,7 @@ Um elemento do DOM é um nó que representa uma tag HTML. No DOM, todo elemento 
     <item>
       <title>Notas de Aulas de JavaScript: 2. Sintaxe Básica, Tipos e Operadores</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/2-sintaxe-basica-tipos-e-operadores/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:10 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/2-sintaxe-basica-tipos-e-operadores/</guid>
       <description>Comentários JavaScript possui comentários de linha e comentários de bloco. Os comentários de linha são definidos após duas barras //. Dessa forma, todo o conteúdo após as duas barras // é considerado comentário e não será interpretado como código.
@@ -77,7 +67,7 @@ Um elemento do DOM é um nó que representa uma tag HTML. No DOM, todo elemento 
     <item>
       <title>Notas de Aulas de JavaScript: 1. Introdução</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/1-introducao/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:09 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:10 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/1-introducao/</guid>
       <description>Breve história JavaScript foi criada em 1995 por Brendan Eich enquanto ele trabalhava para a Netscape implementando a linguagem no navegador da empresa, o Netscape Navigator.

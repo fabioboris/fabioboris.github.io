@@ -6,11 +6,11 @@
     <description>Recent content in operadores on Blog do Prof. Fabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Feb 2021 21:13:10 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/operadores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 20:50:20 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/operadores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notas de Aulas de JavaScript: 2. Sintaxe Básica, Tipos e Operadores</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/2-sintaxe-basica-tipos-e-operadores/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:10 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/2-sintaxe-basica-tipos-e-operadores/</guid>
       <description>Comentários JavaScript possui comentários de linha e comentários de bloco. Os comentários de linha são definidos após duas barras //. Dessa forma, todo o conteúdo após as duas barras // é considerado comentário e não será interpretado como código.

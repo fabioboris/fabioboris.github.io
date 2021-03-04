@@ -6,11 +6,11 @@
     <description>Recent content in arrays on Blog do Prof. Fabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Feb 2021 21:13:14 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Mar 2021 20:50:20 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notas de Aulas de JavaScript: 6. Arrays</title>
       <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/6-arrays/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:14 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/6-arrays/</guid>
       <description>Trabalhando com arrays Obter o tamanho de um Array let cores = [&amp;#34;verde&amp;#34;, &amp;#34;amarelo&amp;#34;, &amp;#34;vermelho&amp;#34;]; let tamanho = cores.length; Acessar um item de um Array let primeira = cores[0]; let ultima = cores[cores.length - 1]; Iterar um Array // usando forEach // cores.forEach(function(item, indice, array) { // console.log(item); // }); cores.forEach(item =&amp;gt; { console.log(item); }); // usando for-of for (let item of cores) { console.log(item); } // usando for for (let i = 0, n = cores.</description>

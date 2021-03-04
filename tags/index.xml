@@ -6,47 +6,29 @@
     <description>Recent content in Tags on Blog do Prof. Fabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 28 Feb 2021 21:13:16 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>async</title>
-      <link>https://fabioboris.com.br/tags/async/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:16 -0300</pubDate>
-      
-      <guid>https://fabioboris.com.br/tags/async/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>callbacks</title>
-      <link>https://fabioboris.com.br/tags/callbacks/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:16 -0300</pubDate>
-      
-      <guid>https://fabioboris.com.br/tags/callbacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>js</title>
-      <link>https://fabioboris.com.br/tags/js/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:16 -0300</pubDate>
-      
-      <guid>https://fabioboris.com.br/tags/js/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 03 Mar 2021 20:50:30 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>commonjs</title>
       <link>https://fabioboris.com.br/tags/commonjs/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:15 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/commonjs/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>js</title>
+      <link>https://fabioboris.com.br/tags/js/</link>
+      <pubDate>Wed, 03 Mar 2021 20:50:30 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>modules</title>
       <link>https://fabioboris.com.br/tags/modules/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:15 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/modules/</guid>
       <description></description>
@@ -55,7 +37,7 @@
     <item>
       <title>arrays</title>
       <link>https://fabioboris.com.br/tags/arrays/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:14 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/arrays/</guid>
       <description></description>
@@ -64,7 +46,7 @@
     <item>
       <title>dom</title>
       <link>https://fabioboris.com.br/tags/dom/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:13 -0300</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:50:10 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/dom/</guid>
       <description></description>
@@ -73,7 +55,7 @@
     <item>
       <title>for</title>
       <link>https://fabioboris.com.br/tags/for/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/for/</guid>
       <description></description>
@@ -82,7 +64,7 @@
     <item>
       <title>for-in</title>
       <link>https://fabioboris.com.br/tags/for-in/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/for-in/</guid>
       <description></description>
@@ -91,7 +73,7 @@
     <item>
       <title>for-of</title>
       <link>https://fabioboris.com.br/tags/for-of/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/for-of/</guid>
       <description></description>
@@ -100,7 +82,7 @@
     <item>
       <title>if</title>
       <link>https://fabioboris.com.br/tags/if/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/if/</guid>
       <description></description>
@@ -109,7 +91,7 @@
     <item>
       <title>switch</title>
       <link>https://fabioboris.com.br/tags/switch/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/switch/</guid>
       <description></description>
@@ -118,7 +100,7 @@
     <item>
       <title>try-catch</title>
       <link>https://fabioboris.com.br/tags/try-catch/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/try-catch/</guid>
       <description></description>
@@ -127,7 +109,7 @@
     <item>
       <title>while</title>
       <link>https://fabioboris.com.br/tags/while/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:12 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:40 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/while/</guid>
       <description></description>
@@ -136,7 +118,7 @@
     <item>
       <title>escopo</title>
       <link>https://fabioboris.com.br/tags/escopo/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:11 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/escopo/</guid>
       <description></description>
@@ -145,7 +127,7 @@
     <item>
       <title>funções</title>
       <link>https://fabioboris.com.br/tags/fun%C3%A7%C3%B5es/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:11 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/fun%C3%A7%C3%B5es/</guid>
       <description></description>
@@ -154,7 +136,7 @@
     <item>
       <title>variáveis</title>
       <link>https://fabioboris.com.br/tags/vari%C3%A1veis/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:11 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:30 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/vari%C3%A1veis/</guid>
       <description></description>
@@ -163,7 +145,7 @@
     <item>
       <title>operadores</title>
       <link>https://fabioboris.com.br/tags/operadores/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:10 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/operadores/</guid>
       <description></description>
@@ -172,7 +154,7 @@
     <item>
       <title>tipos</title>
       <link>https://fabioboris.com.br/tags/tipos/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:10 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:20 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/tipos/</guid>
       <description></description>
@@ -181,7 +163,7 @@
     <item>
       <title>história</title>
       <link>https://fabioboris.com.br/tags/hist%C3%B3ria/</link>
-      <pubDate>Sun, 28 Feb 2021 21:13:09 -0300</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:50:10 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/tags/hist%C3%B3ria/</guid>
       <description></description>
