@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>variáveis on Blog do Prof. Fabio</title>
+    <link>https://fabioboris.com.br/tags/vari%C3%A1veis/</link>
+    <description>Recent content in variáveis on Blog do Prof. Fabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 28 Feb 2021 21:13:11 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/vari%C3%A1veis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas de Aulas de JavaScript: 3. Escopo, Variáveis e Funções</title>
+      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/3-escopo-variaveis-e-funcoes/</link>
+      <pubDate>Sun, 28 Feb 2021 21:13:11 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/3-escopo-variaveis-e-funcoes/</guid>
+      <description>Escopo, Variáveis e Funções valor1 = 1; // escopo global var valor2 = 12; // escopo de função let valor3 = 123; // escopo de bloco const valor4 = 1234; // escopo de bloco  // não é possível alterar o valor de uma constante Escopo global valor1 = 1; function func1() { valor1 = 2; { valor1 = 3; console.log(&amp;#34;func1 &amp;gt;&amp;gt; {} &amp;gt;&amp;gt; valor1:&amp;#34;, valor1); // 3  } console.</description>
+    </item>
+    
+  </channel>
+</rss>

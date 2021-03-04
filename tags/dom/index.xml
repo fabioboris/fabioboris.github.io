@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dom on Blog do Prof. Fabio</title>
+    <link>https://fabioboris.com.br/tags/dom/</link>
+    <description>Recent content in dom on Blog do Prof. Fabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 28 Feb 2021 21:13:13 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/dom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas de Aulas de JavaScript: 5. DOM</title>
+      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/5-dom/</link>
+      <pubDate>Sun, 28 Feb 2021 21:13:13 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/5-dom/</guid>
+      <description>Manipulação do HTML DOM O HTML DOM (Document Object Model) é um modelo de objetos de um documento HTML. O DOM de um documento consiste em uma hierarquia de nós, onde cada nó pode ter, opcionalmente, um nó pai (parent) e nós filhos (children).
+Um elemento do DOM é um nó que representa uma tag HTML. No DOM, todo elemento (objeto do tipo HTMLElement) é um nó (objeto do tipo Node), mas nem todo nó é um elemento, pois existem outros tipos de nós na hierarquia de um documento DOM, como comentários, blocos de texto, a tag especial &amp;lt;!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tipos on Blog do Prof. Fabio</title>
+    <link>https://fabioboris.com.br/tags/tipos/</link>
+    <description>Recent content in tipos on Blog do Prof. Fabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 28 Feb 2021 21:13:10 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/tipos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas de Aulas de JavaScript: 2. Sintaxe Básica, Tipos e Operadores</title>
+      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/2-sintaxe-basica-tipos-e-operadores/</link>
+      <pubDate>Sun, 28 Feb 2021 21:13:10 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/2-sintaxe-basica-tipos-e-operadores/</guid>
+      <description>Comentários JavaScript possui comentários de linha e comentários de bloco. Os comentários de linha são definidos após duas barras //. Dessa forma, todo o conteúdo após as duas barras // é considerado comentário e não será interpretado como código.
+// Este é um comentário de linha numero = 0; // Atribuir o valor 0 a variável numero Já os comentários de bloco são definidos entre as sequências /* e */. Assim, todo o conteúdo entre as sequências /* e */ é um bloco de comentário e não será interpretado como código.</description>
+    </item>
+    
+  </channel>
+</rss>

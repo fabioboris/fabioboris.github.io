@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>callbacks on Blog do Prof. Fabio</title>
+    <link>https://fabioboris.com.br/tags/callbacks/</link>
+    <description>Recent content in callbacks on Blog do Prof. Fabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 28 Feb 2021 21:13:16 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/callbacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas de Aulas de JavaScript: 8. Programação Assíncrona</title>
+      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/8-programacao-assincrona/</link>
+      <pubDate>Sun, 28 Feb 2021 21:13:16 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/8-programacao-assincrona/</guid>
+      <description>Programação assíncrona No modelo de execução síncrono, as instruções de um programa são executadas em sequência, uma após a outra. Nesse modelo, quando uma instrução demorada é executada, o fluxo de execução fica bloqueado, aguardando seu término para que as próximas instruções possam ser executadas.
+No modelo de execução assíncrono, é possível executar mais de uma instrução ao mesmo tempo. Assim, uma instrução demorada poderia ser executada &amp;ldquo;em segundo plano&amp;rdquo;, enquanto o restante das instruções continuam normalmente com seu fluxo de execução.</description>
+    </item>
+    
+  </channel>
+</rss>

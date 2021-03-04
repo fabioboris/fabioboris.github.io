@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>história on Blog do Prof. Fabio</title>
+    <link>https://fabioboris.com.br/tags/hist%C3%B3ria/</link>
+    <description>Recent content in história on Blog do Prof. Fabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 28 Feb 2021 21:13:09 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/hist%C3%B3ria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas de Aulas de JavaScript: 1. Introdução</title>
+      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/1-introducao/</link>
+      <pubDate>Sun, 28 Feb 2021 21:13:09 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/1-introducao/</guid>
+      <description>Breve história JavaScript foi criada em 1995 por Brendan Eich enquanto ele trabalhava para a Netscape implementando a linguagem no navegador da empresa, o Netscape Navigator.
+Inicialmente, o nome da linguagem passou por algumas mudanças, como Mocha e LiveScript até chegar no seu nome atual, o JavaScript.
+Atualmente, a linguagem é chamada, em sua padronização, de ECMAScript, e não JavaScript. Essa diferença se dá pelo fato de que JavaScript é uma marca registrada pela então Sun, posteriormente adquirida pela Oracle.</description>
+    </item>
+    
+  </channel>
+</rss>
