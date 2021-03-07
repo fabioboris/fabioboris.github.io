@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prototype on Blog do Prof. Fabio</title>
+    <link>https://fabioboris.com.br/tags/prototype/</link>
+    <description>Recent content in prototype on Blog do Prof. Fabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 07 Mar 2021 15:30:10 -0300</lastBuildDate><atom:link href="https://fabioboris.com.br/tags/prototype/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas de Aulas de JavaScript: 9. Programação Orientada a Objetos</title>
+      <link>https://fabioboris.com.br/posts/notas-de-aulas/javascript/9-programacao-orientada-a-objetos/</link>
+      <pubDate>Sun, 07 Mar 2021 15:30:10 -0300</pubDate>
+      
+      <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/9-programacao-orientada-a-objetos/</guid>
+      <description>Programação orientada a objetos JavaScript é uma linguagem de programação baseada em protótipos (prototype-based language), onde propriedades e métodos podem ser compartilhadas entre objetos.
+Em JavaScript, tudo funciona como um objeto, exceto os valores null e undefined. Um erro comum é acreditar que números inteiros (literais) não podem ser usados como objetos, pois o ponto . faz com que o interpretador o interprete como um número de ponto flutuante.
+123.toString(); // produz um erro de sintaxe  (123).</description>
+    </item>
+    
+  </channel>
+</rss>

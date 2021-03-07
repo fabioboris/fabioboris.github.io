@@ -3,33 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fabioboris.com.br/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
   </url><url>
     <loc>https://fabioboris.com.br/categories/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
   </url><url>
-    <loc>https://fabioboris.com.br/tags/commonjs/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
+    <loc>https://fabioboris.com.br/tags/class/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/heran%C3%A7a/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
   </url><url>
     <loc>https://fabioboris.com.br/categories/javascript/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
   </url><url>
     <loc>https://fabioboris.com.br/tags/js/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/monkeypatch/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/categories/notas-de-aulas/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/posts/notas-de-aulas/javascript/9-programacao-orientada-a-objetos/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/objetos/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/posts/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/prototype/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/</loc>
+    <lastmod>2021-03-07T15:30:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/async/</loc>
+    <lastmod>2021-03-05T20:50:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/await/</loc>
+    <lastmod>2021-03-05T20:50:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/callback/</loc>
+    <lastmod>2021-03-05T20:50:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/posts/notas-de-aulas/javascript/8-programacao-assincrona/</loc>
+    <lastmod>2021-03-05T20:50:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/promise/</loc>
+    <lastmod>2021-03-05T20:50:10-03:00</lastmod>
+  </url><url>
+    <loc>https://fabioboris.com.br/tags/commonjs/</loc>
     <lastmod>2021-03-03T20:50:30-03:00</lastmod>
   </url><url>
     <loc>https://fabioboris.com.br/tags/modules/</loc>
     <lastmod>2021-03-03T20:50:30-03:00</lastmod>
   </url><url>
-    <loc>https://fabioboris.com.br/categories/notas-de-aulas/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
-  </url><url>
     <loc>https://fabioboris.com.br/posts/notas-de-aulas/javascript/7-modulos/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
-  </url><url>
-    <loc>https://fabioboris.com.br/posts/</loc>
-    <lastmod>2021-03-03T20:50:30-03:00</lastmod>
-  </url><url>
-    <loc>https://fabioboris.com.br/tags/</loc>
     <lastmod>2021-03-03T20:50:30-03:00</lastmod>
   </url><url>
     <loc>https://fabioboris.com.br/tags/arrays/</loc>
