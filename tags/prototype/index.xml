@@ -13,9 +13,8 @@
       <pubDate>Sun, 07 Mar 2021 15:30:10 -0300</pubDate>
       
       <guid>https://fabioboris.com.br/posts/notas-de-aulas/javascript/9-programacao-orientada-a-objetos/</guid>
-      <description>Programação orientada a objetos JavaScript é uma linguagem de programação baseada em protótipos (prototype-based language), onde propriedades e métodos podem ser compartilhadas entre objetos.
-Em JavaScript, tudo funciona como um objeto, exceto os valores null e undefined. Um erro comum é acreditar que números inteiros (literais) não podem ser usados como objetos, pois o ponto . faz com que o interpretador o interprete como um número de ponto flutuante.
-123.toString(); // produz um erro de sintaxe  (123).</description>
+      <description>Programação orientada a objetos JavaScript é uma linguagem de programação baseada em protótipos (prototype-based language), onde propriedades e métodos podem ser compartilhadas entre objetos. Algumas características interessantes sobre objetos em JavaScript:
+ Quase todos objetos JavaScript são instâncias de Object. Um objeto típico herda as propriedades e métodos de Object.prototype. Propriedades e métodos de prototype podem ser sobrescritas. As alterações em prototype podem ser vistas por todos os objetos descendentes. O construtor Object cria um objeto wrapper para um valor dado.</description>
     </item>
     
   </channel>
